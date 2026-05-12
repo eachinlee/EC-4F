@@ -1,4 +1,4 @@
-# EC4F, Ez Claude for Free gvo
+# EC4F, Ez Claude for Free go
 
 A complete solution to use Claude Code for free, routing requests through the `free-claude-code` proxy to free providers such as NVIDIA NIM.
 
