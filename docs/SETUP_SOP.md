@@ -1,7 +1,6 @@
-# Free Claude Code - Full Setup SOP
+# Ez Claude for Free Full Setup SOP
 
-> Use the free-claude-code proxy to run Claude Code for free in terminal or VSCode.
-> Source: https://github.com/Alishahryar1/free-claude-code
+> Use the Repository Source: https://github.com/Alishahryar1/free-claude-code
 
 ---
 
@@ -21,8 +20,8 @@
 ### Core concept
 
 ```
-Original: Claude Code → Anthropic API (paid) ❌
-Now: Claude Code → free-claude-code proxy → NVIDIA NIM / OpenRouter (free) ✅
+Original: Claude Code → Anthropic API (paid) 
+Now: Claude Code → free-claude-code proxy → NVIDIA NIM / OpenRouter (free) 
 ```
 
 ### How it works
