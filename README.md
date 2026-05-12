@@ -60,13 +60,13 @@ You should see models such as `nvidia_nim/z-ai/glm4.7`.
 | Available models | 160+ |
 | NVIDIA NIM Key | Configured |
 
-## 🔗 Related links
+## Related links
 
-- [GitHub: free-claude-code](https://github.com/Alishahryar1/free-claude-code) (23.6k ⭐)
+- [GitHub: free-claude-code](https://github.com/Alishahryar1/free-claude-code)
 - [NVIDIA NIM API](https://build.nvidia.com)
 - [Claude Code official repository](https://github.com/anthropics/claude-code)
 
-## 📝 Notes
+## Notes
 
 This project enables free usage of Claude Code CLI and VSCode extension by routing through free providers.
 
