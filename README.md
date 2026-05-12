@@ -1,8 +1,8 @@
-# Ez Claude for Free (EC4F) go
+# EC4F, Ez Claude for Free gvo
 
 A complete solution to use Claude Code for free, routing requests through the `free-claude-code` proxy to free providers such as NVIDIA NIM.
 
-## 📁 Directory layout
+## Directory layout
 
 ```
 EC4F/
@@ -20,7 +20,7 @@ EC4F/
 └── README.md             # This file
 ```
 
-## 🚀 Quick start
+## Quick start
 
 ### 1. Start the proxy server
 
@@ -44,21 +44,21 @@ In Claude Code, type:
 
 You should see models such as `nvidia_nim/z-ai/glm4.7`.
 
-## 📖 Detailed documentation
+## Detailed documentation
 
 - **Full SOP**: [docs/SETUP_SOP.md](docs/SETUP_SOP.md)  
   Includes principles, requirements, setup steps, core commands, verification, and FAQ.
 - **Quick reference**: [docs/QUICK_REFERENCE.md](docs/QUICK_REFERENCE.md)  
 
-## ⚙️ Current status
+## Current status
 
 | Item | Status |
 |------|--------|
-| fcc-server | ✅ Running (PID: 3755283) |
-| Port | ✅ 8082 |
+| fcc-server | Running (PID: 3755283) |
+| Port | 8082 |
 | Model | nvidia_nim/z-ai/glm4.7 |
 | Available models | 160+ |
-| NVIDIA NIM Key | ✅ Configured |
+| NVIDIA NIM Key | Configured |
 
 ## 🔗 Related links
 
